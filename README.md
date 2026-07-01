@@ -37,20 +37,6 @@ A separate engine, MiniCore, is used for physics modeling.
 * Portable source code using CMake as the build system
 * Will be forever completely free
 
-## License
-
-Dust Racing 2D source code is licensed under GNU GPLv3.
-See COPYING for the complete license text.
-
-Dust Racing 2D includes the source code for the GLEW library.
-See src/game/MiniCore/Graphics/glew/glew.h for the license text.
-
-Dust Racing 2D includes the source code for the GLM library.
-See src/game/MiniCore/Graphics/glm/ogl-math/glm/glm.hpp for the license text.
-
-All image files, except where otherwise noted, are licensed under
-CC BY-SA 3.0: http://creativecommons.org/licenses/by-sa/3.0/
-
 ## Playing
 
 ### Controls
@@ -86,34 +72,3 @@ Your tires will wear out as the race progresses. This causes more and more slidi
 
 Fortunately there's a pit (the yellow rectangle).
 By stopping on the pit your tires will be repaired.
-
-### Custom track files
-
-Dust Racing 2D searches for race tracks in `~/DustRacingTracks/` where you can place your own race tracks.
-
-On Linux/Unix also `$XDG_DATA_HOME/DustRacing2D/tracks` is added to search paths, or `$HOME/.local/share/DustRacing2D/tracks` if `$XDG_DATA_HOME` is not defined.
-
-## Command line options
-
-`--lang [lang]` forces the language. Currently available: `fi`, `cs`, `de`, `it`, `fr`, `nl`, `tr`.
-
-E.g. `dustrac-game --lang it`
-
-`--screen [index]` forces the screen on multi-display setups when in fullscreen mode.
-
-E.g. `dustrac-game --screen 1` would start the game on the second display.
-
-## Building the project
-
-Please refer to the `INSTALL` document for build/install instructions if you're
-going to build **Dust Racing 2D** from sources.
-
-In a nutshell, on Linux after installing `Qt6`, `OpenAL` and `Vorbis` dev libs you just:
-
-`$ mkdir build && cd build`
-
-`$ cmake ..`
-
-`$ make`
-
-..or open the top-level `CMakeLists.txt` in **Qt Creator** or other IDE that supports CMake.
