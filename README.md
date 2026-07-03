@@ -8,6 +8,9 @@
     <td>
       <img width="575" height="182" alt="image" src="https://github.com/user-attachments/assets/0f735d07-ffd5-412d-9136-f85fa23c464e" />
     </td>
+    <td>
+      <img width="575" height="306" alt="image" src="https://github.com/user-attachments/assets/b7a6880d-aefd-47b8-a5a4-a20d871e5391" />
+    </td>
   </tr>
 </table>
 
