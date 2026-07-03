@@ -1,21 +1,15 @@
 ## Dust Racing 2D
 
-<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table>
   <tr>
-    <td style="text-align:center; vertical-align:middle; padding:5px;">
-      <img style="width:100%; height:auto; display:block;" 
-           alt="图片1" 
-           src="https://github.com/user-attachments/assets/0eff6d1f-be45-49ad-be17-b6bd6f4fc8ee" />
+    <td align="center">
+      <img width="300" alt="图片1" src="https://github.com/user-attachments/assets/0eff6d1f-be45-49ad-be17-b6bd6f4fc8ee" />
     </td>
-    <td style="text-align:center; vertical-align:middle; padding:5px;">
-      <img style="width:100%; height:auto; display:block;" 
-           alt="图片2" 
-           src="https://github.com/user-attachments/assets/0f735d07-ffd5-412d-9136-f85fa23c464e" />
+    <td align="center">
+      <img width="300" alt="图片2" src="https://github.com/user-attachments/assets/0f735d07-ffd5-412d-9136-f85fa23c464e" />
     </td>
-    <td style="text-align:center; vertical-align:middle; padding:5px;">
-      <img style="width:100%; height:auto; display:block;" 
-           alt="图片3" 
-           src="https://github.com/user-attachments/assets/b7a6880d-aefd-47b8-a5a4-a20d871e5391" />
+    <td align="center">
+      <img width="300" alt="图片3" src="https://github.com/user-attachments/assets/b7a6880d-aefd-47b8-a5a4-a20d871e5391" />
     </td>
   </tr>
 </table>
