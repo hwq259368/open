@@ -14,7 +14,6 @@
   </tr>
 </table>
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=3hrIzzItggQ">Video of the game</a>
 
 Dust Racing 2D (Dustrac) is a tile-based, cross-platform 2D racing game written
 in Qt (C++) and OpenGL.
