@@ -1,14 +1,12 @@
 ## Dust Racing 2D
-<img width="1524" height="724" alt="image" src="https://github.com/user-attachments/assets/0eff6d1f-be45-49ad-be17-b6bd6f4fc8ee" />
-<img width="575" height="182" alt="image" src="https://github.com/user-attachments/assets/0f735d07-ffd5-412d-9136-f85fa23c464e" />
 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/juzzlin/DustRacing2D/blob/gh-pages/screenshots/1.13.0/1.jpg" width="100%"></img>
+      <img width="1524" height="724" alt="image" src="https://github.com/user-attachments/assets/0eff6d1f-be45-49ad-be17-b6bd6f4fc8ee" />
     </td>
     <td>
-      <img src="https://github.com/juzzlin/DustRacing2D/blob/gh-pages/screenshots/1.13.0/3.jpg" width="100%"></img>
+      <img width="575" height="182" alt="image" src="https://github.com/user-attachments/assets/0f735d07-ffd5-412d-9136-f85fa23c464e" />
     </td>
   </tr>
 </table>
