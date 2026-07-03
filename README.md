@@ -54,10 +54,8 @@ W          | S     | A         | D
 
 ## Races
 
-In the race modes there are always 12 cars. By finishing in TOP-6 a new track
-will be unlocked.
-
-The record times and best positions are stored separately for each lap count.
+比赛模式中始终有12辆赛车。通过进入前六名，新赛道 将解锁。
+每圈计时的纪录时间和最佳名次分别存储。
 
 ### Pit stops
 
