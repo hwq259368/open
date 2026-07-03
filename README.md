@@ -48,13 +48,11 @@ Accelerate | Brake | Turn left | Turn right
 ---------- | ----- | --------- | ----------
 W          | S     | A         | D
 
-The key configuration and game mode can be changed in the settings menu.
+按键配置和游戏模式可以在设置菜单中更改。
+**ESC** 或 **Q** 退出比赛，同时退出当前菜单。
+**P** 暂停游戏。
 
-**ESC** or **Q** exits the race and also the current menu.
-
-**P** pauses the game.
-
-### Races
+## Races
 
 In the race modes there are always 12 cars. By finishing in TOP-6 a new track
 will be unlocked.
