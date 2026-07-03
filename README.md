@@ -18,23 +18,22 @@
 
 《尘埃竞速2D》自带基于Qt的关卡编辑器，方便轻松创建关卡。 一个独立的引擎 MiniCore 用于物理建模。
 
-## Features
-
-* 1-2 human players againts 11 challenging computer players
-* 3 difficulty settings: Easy, Medium, Hard
-* Split-screen two player game (vertical or horizontal)
-* Game modes: Race, Time Trial, Duel
-* 2D graphics with some 3D objects
-* Smooth game play and physics
-* Multiple race tracks
-* Finishing in TOP-6 will unlock the next race track
-* Star ratings based on the best positions on each race track
-* Easy to create new race tracks with the level editor
-* Engine and collision sounds
-* Pit stops
-* Runs windowed or fullscreen
-* Portable source code using CMake as the build system
-* Will be forever completely free
+## 特色
+* 1-2名人类玩家对11名挑战性电脑玩家
+* 三种难度设置：简单、中等、困难
+* 分屏双人游戏（纵屏或横屏）
+* 游戏模式：竞速、计时赛、决斗
+* 2D图形搭配一些3D对象
+* 流畅的游戏体验和物理效果
+* 多条赛道
+* 进入前六名将解锁下一个赛道
+* 星级评分基于各赛道最佳名次
+* 用关卡编辑器轻松创建新赛道
+* 发动机声和碰撞声
+* 维修站
+* 可窗口或全屏运行
+* 使用 CMake 作为构建系统的可移植源代码
+* 将永远完全免费
 
 ## Playing
 
