@@ -57,9 +57,7 @@ W          | S     | A         | D
 比赛模式中始终有12辆赛车。通过进入前六名，新赛道 将解锁。
 每圈计时的纪录时间和最佳名次分别存储。
 
-### Pit stops
+## Pit stops
 
-Your tires will wear out as the race progresses. This causes more and more sliding.
-
-Fortunately there's a pit (the yellow rectangle).
-By stopping on the pit your tires will be repaired.
+随着比赛进行，轮胎会磨损。这导致滑动越来越严重。
+有一个坑（黄色的矩形）。 在维修区停车时，轮胎会得到修复。
