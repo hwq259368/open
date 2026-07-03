@@ -14,11 +14,9 @@
   </tr>
 </table>
 
-Dust Racing 2D (Dustrac) is a tile-based, cross-platform 2D racing game written
-in Qt (C++) and OpenGL.
+尘埃竞速2D（Dustrac）是一款基于瓦片的跨平台2D竞速游戏 在 Qt（C++）和 OpenGL 中。
 
-Dust Racing 2D comes with a Qt-based level editor for easy level creation.
-A separate engine, MiniCore, is used for physics modeling.
+《尘埃竞速2D》自带基于Qt的关卡编辑器，方便轻松创建关卡。 一个独立的引擎 MiniCore 用于物理建模。
 
 ## Features
 
