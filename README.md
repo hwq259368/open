@@ -15,7 +15,6 @@
 </table>
 
 尘埃竞速2D（Dustrac）是一款基于瓦片的跨平台2D竞速游戏 在 Qt（C++）和 OpenGL 中。
-
 《尘埃竞速2D》自带基于Qt的关卡编辑器，方便轻松创建关卡。 一个独立的引擎 MiniCore 用于物理建模。
 
 ## 特色
@@ -34,18 +33,16 @@
 * 可窗口或全屏运行
 * 使用 CMake 作为构建系统的可移植源代码
 * 将永远完全免费
+* 
+## 控制
 
-## Playing
-
-### Controls
-
-The default controls for player one (the pink race car):
+玩家一（粉色赛车）的默认操作：
 
 Accelerate | Brake | Turn left | Turn right
 ---------- | ----- | --------- | ----------
 Up         | Down  | Left      | Right
 
-The default controls for player two (the grey race car):
+玩家二（灰色赛车）的默认操作：
 
 Accelerate | Brake | Turn left | Turn right
 ---------- | ----- | --------- | ----------
